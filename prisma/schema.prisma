@@ -17,3 +17,4 @@ model Expense {
   category    String?
   date        DateTime @default(now())
 }
+
